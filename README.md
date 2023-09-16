@@ -4,10 +4,9 @@ In the project directory, you can run:
 
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png)  Requirements
-- VS Code
 - React
 
-Note: Follwing link can guide you to install both of the requirements 
+Note: Follwing link can be used to install React and IDE VS Code.  
 - React = https://react.dev/learn/installation
 - VS Code = https://code.visualstudio.com
 
